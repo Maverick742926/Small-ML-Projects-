@@ -1,0 +1,15 @@
+Request id,Pickup point,Driver id,Status
+619,Airport,1,Trip Completed
+867,Airport,1,Trip Completed
+3482,Airport,2,Trip Completed
+1807,City,1,Trip Completed
+3112,City,1,Trip Completed
+4469,City,20,Trip Completed
+666,Airport,22,Trip Completed
+2905,City,1,Cancelled
+3806,Airport,2,Cancelled
+748,City,4,Cancelled
+453,City,NA,No Cars Available
+473,Airport,NA,No Cars Available
+3714,Airport,NA,No Cars Available
+3720,Airport,NA,No Cars Available
